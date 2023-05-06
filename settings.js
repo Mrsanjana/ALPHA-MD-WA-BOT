@@ -12,30 +12,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
+global.owner = ['94716989773']
+global.premium = ['94716989773']
+global.ownernomer = '94716989773'
+global.ownername = 'MR.Manuth ®'
+global.botname = '😌🔥 MS BOT 😌🔥 v1.0.0'
+global.footer = ' 😌🔥 MS BOT 😌🔥 v1'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri Lanka, Southern Province , Matara'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.packname = 'MS BOT MD'
+global.author = 'L.K.H.M. Lakdiv '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    success: 'Hari wuththo😒💔✓',
+    admin: 'Thota Admin Na wuththo.higanna😒!',
+    botAdmin: 'Admin Depan Pago Issellama😒...Eca Nathuwa Karai Pamcac',
+    owner: 'Meka hadapu ecata witharai pago puluwan.MR.MANUTH😌🔥!',
+    group: 'Meca group wala gahapan Besiye!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
+    wait: 'idapn pago poddak😒...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
